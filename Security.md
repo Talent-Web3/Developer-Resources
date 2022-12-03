@@ -1,161 +1,150 @@
-  # Security Resources
+# Security Resources
 
-  ## Security Tools
+## Security Tools
 
-  [https://ethereum.eth.link/developers/#security-tools](https://ethereum.eth.link/developers/#security-tools)
+[https://ethereum.eth.link/developers/#security-tools](https://ethereum.eth.link/developers/#security-tools)
 
-  ### Analyzers
+### Analyzers
 
-  https://github.com/ConsenSys/scribble
+https://github.com/ConsenSys/scribble
 
-  https://github.com/eth-sri/securify2
+https://github.com/eth-sri/securify2
 
-  https://github.com/trailofbits/manticore
+https://github.com/trailofbits/manticore
 
-  https://github.com/crytic/echidna
+https://github.com/crytic/echidna
 
-  https://github.com/crytic/slither
+https://github.com/crytic/slither
 
-  https://github.com/ConsenSys/mythril
+https://github.com/ConsenSys/mythril
 
-  https://mythx.io/
+https://mythx.io/
 
-  ## Learning Resources
+## Learning Resources
 
-  ### Secureum
+### Secureum
 
-  **[The Secureum Bootcamp](https://0xkowloon.substack.com/p/the-secureum-bootcamp)**
+**[The Secureum Bootcamp](https://0xkowloon.substack.com/p/the-secureum-bootcamp)**
 
-  [Monthly Secureum Quizes](https://ventral.digital/posts/2022/10/31/race-11-of-the-secureum-bootcamp-epoch)
+[Monthly Secureum Quizes](https://ventral.digital/posts/2022/10/31/race-11-of-the-secureum-bootcamp-epoch)
 
-  ### Intro
+### Intro
 
-  https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/
+https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/
 
-  [Audit Techniques & Tools 101](https://secureum.substack.com/p/audit-techniques-and-tools-101)
+[Audit Techniques & Tools 101](https://secureum.substack.com/p/audit-techniques-and-tools-101)
 
-  ### Best Practices
+### Best Practices
 
-  * https://consensys.github.io/smart-contract-best-practices/
-  * [Solcurity](https://github.com/transmissions11/solcurity) - opinions from [t11s](https://twitter.com/transmissions11) on security best practices
+* [Consensys](https://consensys.github.io/smart-contract-best-practices/)
+* [Solcurity](https://github.com/transmissions11/solcurity) - opinions from [t11s](https://twitter.com/transmissions11) on security best practices
 * [Eth smart contract security best practices](https://consensys.github.io/smart-contract-best-practices/)
-  (see especially: [known attacks](https://consensys.github.io/smart-contract-best-practices/attacks/))
+(see especially: [known attacks](https://consensys.github.io/smart-contract-best-practices/attacks/))
 * [Smart Contract Weakness Registry](https://swcregistry.io/) - an enumeration of common weaknesses in smart contracts, with code samples
 * [Most common smart contract bugs](https://medium.com/solidified/most-common-smart-contract-bugs-of-2020-c1edfe9340ac)
 
-## Solana-specific
-_See [SolanaProgramming/Security](SolanaProgramming.md#security)_
 
 
-  ### Newsletters:
+### Newsletters:
 
-  https://secureum.substack.com/
+https://secureum.substack.com/
 
-  https://blockthreat.substack.com/
+https://blockthreat.substack.com/
 
-  ### Audits
+### Audits
 
-  https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/
+https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/
 
-  https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/
+https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/
 
-  [Working with Auditor](https://twitter.com/tinchoabbate/status/1400170232904400897)
+[Working with Auditor](https://twitter.com/tinchoabbate/status/1400170232904400897)
 
-  [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
+[Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
 
-  ### Audit List
+### Audit List
 
-  [https://github.com/abdk-consulting/audits/tree/main](https://github.com/abdk-consulting/audits/tree/main)
+[https://github.com/abdk-consulting/audits/tree/main](https://github.com/abdk-consulting/audits/tree/main)
 
-  [https://github.com/SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+[https://github.com/SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 
-  **Summary:**
+**Summary:**
 
-  Before deployment to mainents
+Before deployment to mainents
 
-  1. Run static analysis (slither)
+1. Run static analysis (slither)
 
-  2. Manual check for reentrancy and oracle manipulation
+2. Manual check for reentrancy and oracle manipulation
 
-  ### Blogs
+### Blogs
 
-  - https://blog.trailofbits.com/
-  - https://blog.openzeppelin.com/
-  - https://yos.io/articles/
-  - [https://jeancvllr.medium.com/](https://jeancvllr.medium.com/)
-  - [One of the best Auditors - CMichael](https://cmichel.io/)
-  - https://secureum.substack.com/ has some great resources on pitfalls and best practices + intro materials. can ignore some of the audit stuff
-  - [CIO Of Polyong - Mudit Gupta](https://mudit.blog/) (He has live stream as well)
+- https://blog.trailofbits.com/
+- https://blog.openzeppelin.com/
+- https://yos.io/articles/
+- [https://jeancvllr.medium.com/](https://jeancvllr.medium.com/)
+- [One of the best Auditors - CMichael](https://cmichel.io/)
+- https://secureum.substack.com/ has some great resources on pitfalls and best practices + intro materials. can ignore some of the audit stuff
+- [CIO Of Polyong - Mudit Gupta](https://mudit.blog/) (He has live stream as well)
 
-  ### Full Stack
+### Full Stack
 
-  https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
+https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
 
-  ### Twitter people to Follow
+### Twitter people to Follow
 
-  - Twitter’s where the alfa’s / latest happenings + drama’s at. ppl to follow are:
+- Twitter’s where the alfa’s / latest happenings + drama’s at. ppl to follow are:
 
-  **SC Related**
+**SC Related**
 
-  @Mudit__Gupta
+* @Mudit__Gupta
 
-  @bantg
+* @bantg
 
-  @cmichelio
+* @cmichelio
 
-  @fiveoutofnine
+* @fiveoutofnine
 
-  @danrobinson
+* @danrobinson
 
-  then, notable founders of popular projects
+#### Notable founders of popular projects
 
-  @AndreCronjeTech
+* @AndreCronjeTech
 
-  @nicksdjohnson
+* @nicksdjohnson
 
-  @haydenzadams
+* @haydenzadams
 
-  @StaniKulechov
+* @StaniKulechov
 
-  @scott_lew_is
+* @scott_lew_is
 
-  ## CTFs
+## CTFs
 
-  - CTFs helped to understand what to look out for, once u have the basic grasp of solidity. syntax wise, since it’s very similar to javascript, i found it easy to pick up. reading about previous hacks (explained technically, not just the general overview) helped as well. building projects helps with familiarity and gaining exp.
-  - i found reading Uniswap V2 + V3 contracts useful as well, their code quality + inline comments are good. in general, reading the contracts of established projects. so, i’d say bits and pieces that gets u reading and writing code? just gotta get ur hands dirty!
+- CTFs helped to understand what to look out for, once u have the basic grasp of solidity. syntax wise, since it’s very similar to javascript, i found it easy to pick up. reading about previous hacks (explained technically, not just the general overview) helped as well. building projects helps with familiarity and gaining exp.
+- i found reading Uniswap V2 + V3 contracts useful as well, their code quality + inline comments are good. in general, reading the contracts of established projects. so, i’d say bits and pieces that gets u reading and writing code? just gotta get ur hands dirty!
 
-  ### Practice
+### Bughunting challenges: Practice
 
-  https://www.damnvulnerabledefi.xyz/
-
-  https://capturetheether.com/
-
-  https://cryptozombies.io/
-
-  [https://github.com/paradigm-operations/paradigm-ctf-2021](https://github.com/paradigm-operations/paradigm-ctf-2021)
-
-  ### CTF learnings
-
-  [https://github.com/SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
-
-  [https://github.com/SunWeb3Sec/blocksec-ctfs](https://github.com/SunWeb3Sec/blocksec-ctfs)
-
-  ### Hacks
-
-  https://github.com/SunWeb3Sec/DeFiHackLabs
-  
-  
-
-
-
-# Bughunting challenges:
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 * [OpenZeppelin Ethernaut](https://ethernaut.openzeppelin.com/)
 * [Capture the Ether](https://capturetheether.com/)
 * [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021)
 * [Smart contract CTF list](https://github.com/PumpkingWok/CTFGym)
 
-  
+
+### CTF learnings
+
+[https://github.com/SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
+
+[https://github.com/SunWeb3Sec/blocksec-ctfs](https://github.com/SunWeb3Sec/blocksec-ctfs)
+
+### Hacks
+
+https://github.com/SunWeb3Sec/DeFiHackLabs
+
+
+
+
+
 # Real-life vulnerabilities
 
 ## Summaries
@@ -176,22 +165,22 @@ to get the contract's state variables into an unexpected state.
 
 * For an overview, see [Preventing re-entrancy attacks: lessons from history](https://medium.com/amber-group/preventing-re-entrancy-attacks-lessons-from-history-c2d96480fac3)
 * [Exploiting uniswap from reentrancy to actual profit](https://blog.openzeppelin.com/exploiting-uniswap-from-reentrancy-to-actual-profit/) (July 2019)
-  * Clear explanation of reentrancy vulnerability on Uniswap introduced by ERC777.
+* Clear explanation of reentrancy vulnerability on Uniswap introduced by ERC777.
 * [Lendf.Me re-entrancy attack](https://valid.network/post/the-reentrancy-strikes-again-the-case-of-lendf-me) (May 2020)
-  * ERC777 strikes again
+* ERC777 strikes again
 * [Cream Finance AMP attack](https://medium.com/cream-finance/c-r-e-a-m-finance-post-mortem-amp-exploit-6ceb20a630c5) (Aug 2021)
-  * ERC777 strikes again.  Cream Finance was susceptible, and AMP token had an ERC777-style contract
+* ERC777 strikes again.  Cream Finance was susceptible, and AMP token had an ERC777-style contract
 * [Grim Finance exploit](https://twitter.com/RugDocIO/status/1472293717725913089) (Dec 2021)
-  * Grim Finance used a before-after pattern to determine how much was deposited (needed because
-    some tokens have a transfer tax, in which case the deposited amount will differ from the transferred amount)
-  * Grim didn't guard against reentrancy between the before-after pattern.
-  * [More details](https://rekt.news/grim-finance-rekt/)
+* Grim Finance used a before-after pattern to determine how much was deposited (needed because
+  some tokens have a transfer tax, in which case the deposited amount will differ from the transferred amount)
+* Grim didn't guard against reentrancy between the before-after pattern.
+* [More details](https://rekt.news/grim-finance-rekt/)
 * TheDAO exploit of 2016: the original re-entrancy bug, but listed last here because it's one of the hardest to understand.
-  * [Race-to-Empty](https://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/)
-    (written just before the exploit, describing a generic vulnerability)
-  * [Analysis of TheDAO exploit](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
-    (detailed explanation of the flaw as applied to TheDAO)
-  * For more historical background (less technical) see [a history of 'The DAO' hack](https://coinmarketcap.com/alexandria/article/a-history-of-the-dao-hack)
+* [Race-to-Empty](https://vessenes.com/more-ethereum-attacks-race-to-empty-is-the-real-deal/)
+  (written just before the exploit, describing a generic vulnerability)
+* [Analysis of TheDAO exploit](https://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/)
+  (detailed explanation of the flaw as applied to TheDAO)
+* For more historical background (less technical) see [a history of 'The DAO' hack](https://coinmarketcap.com/alexandria/article/a-history-of-the-dao-hack)
 
 ### Oracle attacks
 Some AMMs provide on-chain oracle functions (i.e. to compute asset prices from the current state of their pools).
@@ -200,40 +189,40 @@ then do something else on a different protocol which depends on that oracle pric
 protocols that depend on on-chain oracles for pricing should be especially cognizant of this.
 
 * [Cream Finance 130M hack](https://medium.com/@AndyPavia/swissblock-post-mortem-cream-finance-hack-7c1caff4335c) (Oct 2021)
-  * oracle attack on a lending protocol due to a flawed custom oracle for yearn assets
-    (see also: [cream hack analysis](https://mudit.blog/cream-hack-analysis/))
+* oracle attack on a lending protocol due to a flawed custom oracle for yearn assets
+  (see also: [cream hack analysis](https://mudit.blog/cream-hack-analysis/))
 * [PancakeBunny reward overmint](https://medium.com/amber-group/bsc-flash-loan-attack-pancakebunny-3361b6d814fd) (May 2021)
-  * oracle manipulation attack on PancakeBunny AMM
-  * attacker gets way too many BUNNY reward tokens for LPing by unstaking in the middle of a massive mispricing from a flashloan
+* oracle manipulation attack on PancakeBunny AMM
+* attacker gets way too many BUNNY reward tokens for LPing by unstaking in the middle of a massive mispricing from a flashloan
 * [Enzyme finance custom oracle bug](https://medium.com/immunefi/enzyme-finance-price-oracle-manipulation-bug-fix-postmortem-4e1f3d4201b5)
-  * an issue showing an interesting interaction between a governance token's custom oracle
-    and its support for flashloans
+* an issue showing an interesting interaction between a governance token's custom oracle
+  and its support for flashloans
 * [Visor finance pricing exploit](https://twitter.com/Mudit__Gupta/status/1464657484367339527) (Nov 2021)
-  * reliance on spot prices for issuing shares
+* reliance on spot prices for issuing shares
 * [Rari pool attack - TWAP manipulation of VUSD](https://twitter.com/Mudit__Gupta/status/1455627465678749696)
-  * a specific pool was seemingly misconfigured to point at a pool with only concentrated liquidity
-  * thread includes discussion of how it is easier to manipulate a pool with only concentrated liquidity because trading
-    loss is relatively small
-  * discussion of how TWAPs are still vulnerable because single huge input can move average a lot
+* a specific pool was seemingly misconfigured to point at a pool with only concentrated liquidity
+* thread includes discussion of how it is easier to manipulate a pool with only concentrated liquidity because trading
+  loss is relatively small
+* discussion of how TWAPs are still vulnerable because single huge input can move average a lot
 * [Harvest Finance exploit](https://twitter.com/valentinmihov/status/1320667338321154048?s=20) (Oct 2020)
-  * exploiter moved USDT/USDC on Curve up before depositing USDT into Harvest Finance, then down before withdrawing
-  * pool share calc uses market price as oracle instead of 1
+* exploiter moved USDT/USDC on Curve up before depositing USDT into Harvest Finance, then down before withdrawing
+* pool share calc uses market price as oracle instead of 1
 * [Oracle vulnerabilities](https://samczsun.com/so-you-want-to-use-a-price-oracle/)
-  * samczsun discussion of some famous oracle attacks
+* samczsun discussion of some famous oracle attacks
 * [Inverse Finance oracle attack](https://rekt.news/inverse-finance-rekt/) (Apr 2022) (required price manipulation across multiple blocks)
 * [Inverse Finance oracle attack 2](https://twitter.com/peckshield/status/1537382891230883841) (June 2022)
 * Related: [discussion of UniV3 TWAP oracle manipulation](https://twitter.com/euler_mab/status/1459314402059034634)
 
 ### Other interesting economic attacks
 * [bZx 2020 exploit](https://peckshield.medium.com/bzx-hack-full-disclosure-with-detailed-profit-analysis-e6b1fa9b18fc) (Feb 2020)
-  * lending protocol bZx allowed fancier functionality than a typical lending protocol, specifically
-    allowing a user to put on a leveraged equity/debt position by routing to an AMM
-  * a missing check caused the protocol to be fooled into taking a negative-value position while moving an AMM price way out of line
-  * attacker made money by arbing the AMM back into line outside of the lending protocol, while abandoning the negative-value vault
-  * [another](https://www.palkeo.com/en/projets/ethereum/bzx.html) great description of this issue
-  * [another](https://lev.liv.nev.org.uk/pub/bzx_debug.txt) great description
+* lending protocol bZx allowed fancier functionality than a typical lending protocol, specifically
+  allowing a user to put on a leveraged equity/debt position by routing to an AMM
+* a missing check caused the protocol to be fooled into taking a negative-value position while moving an AMM price way out of line
+* attacker made money by arbing the AMM back into line outside of the lending protocol, while abandoning the negative-value vault
+* [another](https://www.palkeo.com/en/projets/ethereum/bzx.html) great description of this issue
+* [another](https://lev.liv.nev.org.uk/pub/bzx_debug.txt) great description
 * [Spartan Protocol LP share value calc issue](https://medium.com/amber-group/exploiting-spartan-protocols-lp-share-calculation-flaws-391437855e74) (May 2021)
-  * mechanical flaw in calculation of LP share value in a synthetic asset protocol
+* mechanical flaw in calculation of LP share value in a synthetic asset protocol
 
 ### Bridge attacks
 Bridges are complex because they involve multiple chains, and interaction with a third party.
@@ -241,9 +230,9 @@ Also, from the perspective of a single chain, transfers to that chain just invol
 tokens (or minting claim tokens) from the bridge contract.
 
 * [Poly network hack](https://slowmist.medium.com/the-analysis-and-q-a-of-poly-network-being-hacked-8112a35beb39) (Aug 2021)
-  * more commentary [here](https://mudit.blog/poly-network-largest-crypto-hack/)
+* more commentary [here](https://mudit.blog/poly-network-largest-crypto-hack/)
 * [Polygon PoS bridge withdrawal bug](https://medium.com/immunefi/polygon-double-spend-bug-fix-postmortem-2m-bounty-5a1db09db7f1) (Oct 2021)
-  * bug allowing repeat withdrawals from the bridge contract
+* bug allowing repeat withdrawals from the bridge contract
 
 ### Missing checks
 * [Polygon lack of balance/allowance check in MRC20 contract](https://medium.com/immunefi/polygon-lack-of-balance-check-bugfix-postmortem-2-2m-bounty-64ec66c24c7d) (Dec 2021)
@@ -256,33 +245,33 @@ The [proxy upgrade pattern](https://docs.openzeppelin.com/upgrades-plugins/1.x/p
 
 ### Unauthorized access
 * [Pickle Finance exploit](https://rekt.news/pickle-finance-rekt/)
-  * See especially [this diagram](https://twitter.com/vasa_develop/status/1330532691205361664/photo/1)
-  * Pickle Finance was a fork of Yearn; Yearn published this [vulnerability disclosure](https://github.com/yearn/yearn-security/blob/master/disclosures/2020-10-10.md) a month earlier
-  * Similar problem [here](https://rekt.news/rari-capital-rekt/)
+* See especially [this diagram](https://twitter.com/vasa_develop/status/1330532691205361664/photo/1)
+* Pickle Finance was a fork of Yearn; Yearn published this [vulnerability disclosure](https://github.com/yearn/yearn-security/blob/master/disclosures/2020-10-10.md) a month earlier
+* Similar problem [here](https://rekt.news/rari-capital-rekt/)
 * [Parity wallet bug](https://hackingdistributed.com/2017/07/22/deep-dive-parity-bug/) (2017)
 
 ### Frontend attacks
 * [BadgerDAO Cloudflare exploit](https://badger.com/technical-post-mortem) (Dec 2021)
-  * frontend attack arising from Cloudflare bug which allowed attackers to preregister API keys by email address
-    without email verification
-  * attacker used access to inject malicious scripts that prompted users to authorize
-    tokens via MetaMask.
+* frontend attack arising from Cloudflare bug which allowed attackers to preregister API keys by email address
+  without email verification
+* attacker used access to inject malicious scripts that prompted users to authorize
+  tokens via MetaMask.
 
 ### Logic bugs
 Arguably all bugs are logic bugs, but some seem like pure logic issues...
 
 * [Compound overdistribution of governance token](https://twitter.com/Mudit__Gupta/status/1443454935639609345?t=sznwoTmp3KMDffaI1vpINA&s=19) (Sep 2021)
-  * (see also [this](https://cybavo.medium.com/defi-protocol-compound-suffers-a-90m-reverse-rugpull-after-1-letter-bug-6168071497e2))
+* (see also [this](https://cybavo.medium.com/defi-protocol-compound-suffers-a-90m-reverse-rugpull-after-1-letter-bug-6168071497e2))
 * [Popsicle Finance exploit](https://twitter.com/Mudit__Gupta/status/1422797923037814786?s=20)
-  * bug in computing users' share of fees when LP shares are transferred
-  * notable in that bug had been repeatedly exploited in other contracts, but was missed by creators and auditors
+* bug in computing users' share of fees when LP shares are transferred
+* notable in that bug had been repeatedly exploited in other contracts, but was missed by creators and auditors
 * [MonoX hack](https://twitter.com/Mudit__Gupta/status/1465726874974187524) (Nov 2021)
-  * vAMM protocol for trading synthetics
-  * when user swaps A for B, vAMM updates price of A to be lower than before, then updates price of B to be higher than before
-  * MonoX didn't prevent corner case where A == B, so user could use this to increase price of B
-  * attacker used this repeatedly to pump internal price of MONO token, then swap MONO into a lot of real value
+* vAMM protocol for trading synthetics
+* when user swaps A for B, vAMM updates price of A to be lower than before, then updates price of B to be higher than before
+* MonoX didn't prevent corner case where A == B, so user could use this to increase price of B
+* attacker used this repeatedly to pump internal price of MONO token, then swap MONO into a lot of real value
 * [Opyn bug](https://peckshield.medium.com/opyn-hacks-root-cause-analysis-c65f3fe249db) (Aug 2020)
-  * bug stemming from special case for ETH transfers
+* bug stemming from special case for ETH transfers
 
 ## Other
 * [Interview with whitehat samczsun](https://medium.com/immunefi/the-u-up-files-with-samczsun-1a9116cf6e74)
