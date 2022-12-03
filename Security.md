@@ -1,10 +1,8 @@
-# Security
+# Security Resources
 
-## Security Resources
+## Security Tools
 
-### Security Tools
-
-[https://ethereum.eth.link/developers/#security-tools](https://ethereum.eth.link/developers/#security-tools)
+* [https://ethereum.eth.link/developers/#security-tools](https://ethereum.eth.link/developers/#security-tools)
 
 #### Analyzers
 
