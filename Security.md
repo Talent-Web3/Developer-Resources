@@ -1,24 +1,10 @@
-# Security Resources
-
-## Security Tools
-
-* [https://ethereum.eth.link/developers/#security-tools](https://ethereum.eth.link/developers/#security-tools)
-
-#### Analyzers
-
-* https://github.com/eth-sri/securify2
-* https://github.com/trailofbits/manticore
-* https://github.com/crytic/echidna
-* https://github.com/crytic/slither
-* [Mythril](https://github.com/ConsenSys/mythril) (Open source Security analysis tool for EVM bytecode)&#x20;
-* [Consensys Scribble - A Solidity runtime verification tool for property-based testing.](https://github.com/ConsenSys/scribble)
-* [Mythx](https://mythx.io/) (Paid smart contract scans)
+# Security
 
 ### Learning Resources
 
 #### Secureum
 
-* ****[**The Secureum Bootcamp Writeups**](https://0xkowloon.substack.com/p/the-secureum-bootcamp)****
+* [**The Secureum Bootcamp Writeups**](https://0xkowloon.substack.com/p/the-secureum-bootcamp)
 * [Monthly Secureum Quizes](https://ventral.digital/posts/2022/10/31/race-11-of-the-secureum-bootcamp-epoch)
 * [Secureum Bootcamp Videos](https://www.youtube.com/@SecureumVideos/playlists)
 
@@ -35,12 +21,20 @@
 * [Smart Contract Weakness Registry](https://swcregistry.io/) - an enumeration of common weaknesses in smart contracts, with code samples
 * [Most common smart contract bugs](https://medium.com/solidified/most-common-smart-contract-bugs-of-2020-c1edfe9340ac)
 
-#### Newsletters:
+#### Blogs
 
-* [Securem ](https://secureum.substack.com/)
+* https://blog.trailofbits.com/
+* https://blog.openzeppelin.com/
+* https://yos.io/articles/
 * [Block Threat](https://blockthreat.substack.com/)
+* [https://jeancvllr.medium.com/](https://jeancvllr.medium.com/)
+* [One of the best Auditors - CMichael](https://cmichel.io/)
+* [Securem](https://secureum.substack.com/) - has some great resources on pitfalls and best practices + intro materials.&#x20;
+* [CIO Of Polygon - Mudit Gupta](https://mudit.blog/)&#x20;
 
-#### How to Prepare for Audits
+
+
+### How to Prepare for Audits
 
 * https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/
 * https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/
@@ -59,19 +53,7 @@ Before deployment to mainnets
 1. Run static analysis (slither)
 2. Manual check for reentrancy and oracle manipulation
 
-#### Blogs
-
-* https://blog.trailofbits.com/
-* https://blog.openzeppelin.com/
-* https://yos.io/articles/
-* [https://jeancvllr.medium.com/](https://jeancvllr.medium.com/)
-* [One of the best Auditors - CMichael](https://cmichel.io/)
-* https://secureum.substack.com/ has some great resources on pitfalls and best practices + intro materials. can ignore some of the audit stuff
-* [CIO Of Polyong - Mudit Gupta](https://mudit.blog/) (He has live stream as well)
-
-
-
-#### Twitter people to Follow
+### Twitter people to Follow
 
 * Twitter’s where the alfa’s / latest happenings + drama’s at. ppl to follow are:
 
@@ -94,7 +76,7 @@ Before deployment to mainnets
 ### CTFs
 
 * CTFs helped to understand what to look out for, once u have the basic grasp of solidity. syntax wise, since it’s very similar to javascript, i found it easy to pick up. reading about previous hacks (explained technically, not just the general overview) helped as well. building projects helps with familiarity and gaining exp.
-* i found reading Uniswap V2 + V3 contracts useful as well, their code quality + inline comments are good. in general, reading the contracts of established projects. so, i’d say bits and pieces that gets u reading and writing code? just gotta get ur hands dirty!
+* I found reading Uniswap V2 + V3 contracts useful as well, their code quality + inline comments are good. in general, reading the contracts of established projects. so, i’d say bits and pieces that gets u reading and writing code? just gotta get ur hands dirty!
 
 #### Bughunting challenges: Practice
 
@@ -106,13 +88,26 @@ Before deployment to mainnets
 
 #### CTF learnings
 
-[https://github.com/SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
-
-[https://github.com/SunWeb3Sec/blocksec-ctfs](https://github.com/SunWeb3Sec/blocksec-ctfs)
+* [https://github.com/SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
+* [https://github.com/SunWeb3Sec/blocksec-ctfs](https://github.com/SunWeb3Sec/blocksec-ctfs)
 
 #### Hacks
 
-https://github.com/SunWeb3Sec/DeFiHackLabs
+{% embed url="https://github.com/SunWeb3Sec/DeFiHackLabs" %}
+
+## Security Tools
+
+* [https://ethereum.eth.link/developers/#security-tools](https://ethereum.eth.link/developers/#security-tools)
+
+#### Analyzers
+
+* https://github.com/eth-sri/securify2
+* https://github.com/trailofbits/manticore
+* https://github.com/crytic/echidna
+* https://github.com/crytic/slither
+* [Mythril](https://github.com/ConsenSys/mythril) (Open source Security analysis tool for EVM bytecode)
+* [Consensys Scribble - A Solidity runtime verification tool for property-based testing.](https://github.com/ConsenSys/scribble)
+* [Mythx](https://mythx.io/) (Paid smart contract scans)
 
 ## Real-life vulnerabilities
 
