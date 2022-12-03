@@ -8,27 +8,26 @@
 
 #### Analyzers
 
-* https://github.com/ConsenSys/scribble
 * https://github.com/eth-sri/securify2
 * https://github.com/trailofbits/manticore
 * https://github.com/crytic/echidna
 * https://github.com/crytic/slither
 * [Mythril](https://github.com/ConsenSys/mythril) (Open source Security analysis tool for EVM bytecode)&#x20;
+* [Consensys Scribble - A Solidity runtime verification tool for property-based testing.](https://github.com/ConsenSys/scribble)
 * [Mythx](https://mythx.io/) (Paid smart contract scans)
 
 ### Learning Resources
 
 #### Secureum
 
-[**The Secureum Bootcamp**](https://0xkowloon.substack.com/p/the-secureum-bootcamp)
+* ****[**The Secureum Bootcamp Writeups**](https://0xkowloon.substack.com/p/the-secureum-bootcamp)****
+* [Monthly Secureum Quizes](https://ventral.digital/posts/2022/10/31/race-11-of-the-secureum-bootcamp-epoch)
+* [Secureum Bootcamp Videos](https://www.youtube.com/@SecureumVideos/playlists)
 
-[Monthly Secureum Quizes](https://ventral.digital/posts/2022/10/31/race-11-of-the-secureum-bootcamp-epoch)
-
-#### Intro to security
+#### Intro to Security
 
 * [OpenZepplin Intro Blog](https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/)
-
-[Audit Techniques & Tools 101](https://secureum.substack.com/p/audit-techniques-and-tools-101)
+* [Audit Techniques & Tools 101](https://secureum.substack.com/p/audit-techniques-and-tools-101)
 
 #### Best Practices
 
@@ -40,29 +39,24 @@
 
 #### Newsletters:
 
-https://secureum.substack.com/
+* [Securem ](https://secureum.substack.com/)
+* [Block Threat](https://blockthreat.substack.com/)
 
-https://blockthreat.substack.com/
+#### How to Prepare for Audits
 
-#### Audits
+* https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/
+* https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/
+* [Working with Auditor](https://twitter.com/tinchoabbate/status/1400170232904400897)
+* [Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
 
-https://blog.trailofbits.com/2019/08/08/246-findings-from-our-smart-contract-audits-an-executive-summary/
+#### Audits Done By Others For Reference
 
-https://our.status.im/what-is-a-security-audit-when-you-should-get-one-and-how-to-prepare/
+* [https://github.com/abdk-consulting/audits/tree/main](https://github.com/abdk-consulting/audits/tree/main)
+* [https://github.com/SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 
-[Working with Auditor](https://twitter.com/tinchoabbate/status/1400170232904400897)
+**Summary of Audit Checklist:**
 
-[Ethereum Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
-
-#### Audit List
-
-[https://github.com/abdk-consulting/audits/tree/main](https://github.com/abdk-consulting/audits/tree/main)
-
-[https://github.com/SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
-
-**Summary:**
-
-Before deployment to mainents
+Before deployment to mainnets
 
 1. Run static analysis (slither)
 2. Manual check for reentrancy and oracle manipulation
@@ -77,9 +71,7 @@ Before deployment to mainents
 * https://secureum.substack.com/ has some great resources on pitfalls and best practices + intro materials. can ignore some of the audit stuff
 * [CIO Of Polyong - Mudit Gupta](https://mudit.blog/) (He has live stream as well)
 
-#### Full Stack
 
-https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
 
 #### Twitter people to Follow
 
