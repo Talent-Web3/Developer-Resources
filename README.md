@@ -1,5 +1,11 @@
 # Developer-Resources
 
+
+------
+For a more friendly reading experience, we recommend navigating [here](https://chia-yong-kang.gitbook.io/talent-web3/).
+----
+
+
 A curated list for getting up to speed on developing for crypto and decentralized networks.
 
 The content on the toplevel page contains what we consider essential reading. Child pages contain deeper, topic-specific information to review afterward.
