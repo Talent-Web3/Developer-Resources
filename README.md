@@ -1,7 +1,3 @@
----
-description: Developer Resources to help devs get into Web3 or level up their skills
----
-
 # Developer-Resources
 
 > #### For a more friendly reading experience, we recommend navigating [here](https://chia-yong-kang.gitbook.io/talent-web3/).
