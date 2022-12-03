@@ -1,6 +1,6 @@
 # Security
 
-### Learning Resources
+## Learning Resources
 
 #### Secureum
 
@@ -80,7 +80,7 @@ Before deployment to mainnets
 * CTFs helped to understand what to look out for, once u have the basic grasp of solidity. syntax wise, since it’s very similar to javascript, i found it easy to pick up. reading about previous hacks (explained technically, not just the general overview) helped as well. building projects helps with familiarity and gaining exp.
 * I found reading Uniswap V2 + V3 contracts useful as well, their code quality + inline comments are good. in general, reading the contracts of established projects. so, i’d say bits and pieces that gets u reading and writing code? just gotta get ur hands dirty!
 
-#### Bughunting challenges: Practice
+#### Bug hunting challenges: Practice
 
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 * [OpenZeppelin Ethernaut](https://ethernaut.openzeppelin.com/)
