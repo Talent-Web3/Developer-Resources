@@ -45,6 +45,8 @@
 
 * [https://github.com/abdk-consulting/audits/tree/main](https://github.com/abdk-consulting/audits/tree/main)
 * [https://github.com/SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+* [Pashov (Individual Auditor)](https://github.com/pashov/audits/tree/master)
+* [Trail of Bits](https://www.trailofbits.com/)
 
 **Summary of Audit Checklist:**
 
