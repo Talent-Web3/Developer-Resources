@@ -47,6 +47,7 @@
 * [https://github.com/SunWeb3Sec/DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
 * [Pashov (Individual Auditor)](https://github.com/pashov/audits/tree/master)
 * [Trail of Bits](https://www.trailofbits.com/)
+* [SpearBitDao](https://github.com/spearbit/portfolio/tree/master/pdfs)
 
 **Summary of Audit Checklist:**
 
