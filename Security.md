@@ -48,6 +48,9 @@
 * [Pashov (Individual Auditor)](https://github.com/pashov/audits/tree/master)
 * [Trail of Bits](https://www.trailofbits.com/)
 * [SpearBitDao](https://github.com/spearbit/portfolio/tree/master/pdfs)
+* [@immunefi](https://twitter.com/immunefi)- [https://medium.com/immunefi](https://t.co/PUYNt0yjyc)[@code4rena](https://twitter.com/code4rena)- [https://code4rena.com/reports](https://t.co/TRfuDuZS9a)
+* [@TheSecureum](https://twitter.com/TheSecureum)- [https://github.com/secureum/CARE](https://t.co/sw266Da2mx) & [https://secureum.substack.com](https://t.co/cmH7AdIgxx)
+* [@sherlockdefi](https://twitter.com/sherlockdefi)- [https://github.com/sherlock-audit](https://t.co/MGFgZOMybr)
 
 **Summary of Audit Checklist:**
 
@@ -96,7 +99,7 @@ Before deployment to mainnets
 
 #### Hacks
 
-{% embed url="https://github.com/SunWeb3Sec/DeFiHackLabs" %}
+* [DefiHackLabs - Replay Hacks](https://github.com/SunWeb3Sec/DeFiHackLabs)
 
 ## Security Tools
 
