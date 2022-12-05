@@ -151,6 +151,8 @@ Re-entrancy is a famous and common issue where the attacker can unexpectedly rec
 
 Some AMMs provide on-chain oracle functions (i.e. to compute asset prices from the current state of their pools). Unfortunately, this could allow an attacker to manipulate the state of a pool (especially using a flash loan), then do something else on a different protocol which depends on that oracle price. Developers of protocols that depend on on-chain oracles for pricing should be especially cognizant of this.
 
+* [Aave Bad debt hack](https://twitter.com/ArkhamIntel/status/1595041038824923136?t=X_nOejyxVvjjByr08CvTHQ&s=19)
+* [Mango Markets 115M hack](https://twitter.com/0xfoobar/status/1579972503283564546?t=IzS_KTuw2sDzKmstcHxLSg&s=19)
 * [Cream Finance 130M hack](https://medium.com/@AndyPavia/swissblock-post-mortem-cream-finance-hack-7c1caff4335c) (Oct 2021)
 * oracle attack on a lending protocol due to a flawed custom oracle for yearn assets (see also: [cream hack analysis](https://mudit.blog/cream-hack-analysis/))
 * [PancakeBunny reward overmint](https://medium.com/amber-group/bsc-flash-loan-attack-pancakebunny-3361b6d814fd) (May 2021)
