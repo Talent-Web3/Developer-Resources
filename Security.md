@@ -86,20 +86,27 @@ Before deployment to mainnets
 
 #### Bug hunting challenges: Practice
 
+Popular ones:
 * [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 * [OpenZeppelin Ethernaut](https://ethernaut.openzeppelin.com/)
 * [Capture the Ether](https://capturetheether.com/)
 * [Paradigm CTF 2021](https://github.com/paradigm-operations/paradigm-ctf-2021)
 * [Smart contract CTF list](https://github.com/PumpkingWok/CTFGym)
 
+Up and Coming:
+* [Ciphershastra](https://ciphershastra.com/)
+
+
 #### CTF learnings
 
+* [CTF Workshop - Secureum A-MAZE-X Stanford](https://github.com/secureum/DeFi-Security-Summit-Stanford)
 * [https://github.com/SunWeb3Sec/DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
 * [https://github.com/SunWeb3Sec/blocksec-ctfs](https://github.com/SunWeb3Sec/blocksec-ctfs)
 
 #### Hacks
 
 * [DefiHackLabs - Replay Hacks](https://github.com/SunWeb3Sec/DeFiHackLabs)
+* [Learn EVM Attacks - Coinspect](https://github.com/coinspect/learn-evm-attacks)
 
 ## Security Tools
 
