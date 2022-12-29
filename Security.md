@@ -66,6 +66,7 @@ Before deployment to mainnets
 ### Want to audit? Start here
 - code4rena
 - Sherlock
+- Immunefi
 
 
 **SC Related**
