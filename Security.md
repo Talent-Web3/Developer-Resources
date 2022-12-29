@@ -63,6 +63,11 @@ Before deployment to mainnets
 
 * Twitter’s where the alfa’s / latest happenings + drama’s at. ppl to follow are:
 
+### Want to audit? Start here
+- code4rena
+- Sherlock
+
+
 **SC Related**
 
 * @Mudit\_\_Gupta
@@ -70,6 +75,8 @@ Before deployment to mainnets
 * @cmichelio
 * @fiveoutofnine
 * @danrobinson
+* [@pashovkrum](https://twitter.com/pashovkrum/status/1608046182571311107)
+
 
 **Notable founders of popular projects**
 
